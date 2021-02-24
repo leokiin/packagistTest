@@ -1,5 +1,5 @@
 {
-    "name": "packagistTest/packagistTest",
+    "name": "packagist-test/packagist-test",
     "type": "library",
     "description": "Test for PHP 7.3",
     "keywords": ["test","logging"],
