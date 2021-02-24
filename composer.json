@@ -1,0 +1,24 @@
+{
+    "name": "packagistTest/packagistTest",
+    "type": "library",
+    "description": "Test for PHP 7.3",
+    "keywords": ["test","logging"],
+    "homepage": "https://github.com/leokiin/packagistTest",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jone Doe",
+            "email": "jonedoe@gmail.com",
+            "homepage": "http://jonedoe",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
